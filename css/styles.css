@@ -50,10 +50,13 @@ ul {
   color: #404bbf;
 }
 
+.contact {
+  font-style: normal;
+}
+
 .contact__link {
   color: #434455;
   font-weight: 400;
-  font-style: normal;
 }
 
 .contact__link:hover,
